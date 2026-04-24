@@ -52,5 +52,5 @@ Main source repository is private while the product is under development.
 
 ## Author
 
-Chester Wen  
+Chiyong Wen 
 Master of Business Analytics, University of Western Australia
